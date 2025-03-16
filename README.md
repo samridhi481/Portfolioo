@@ -1,16 +1,20 @@
-Portfolio
+
+# Portfolio
 
 LINK- https://ornate-dragon-54093b.netlify.app
 
-Sections
+## Sections
 
-About me
-Contact Me
-Education
-Skills
-Projects
-Technologies Used
+- About me
+- Contact Me
+- Education
+- Skills
+- Projects
 
-HTML
 
-CSS
+
+## Technologies Used 
+- HTML
+- CSS
+
+ 
